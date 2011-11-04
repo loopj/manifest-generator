@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = "manifest-destiny"
-  s.version = ""
+  s.version = "1.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["James Smith"]
@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.md",
     "Rakefile",
+    "VERSION",
     "lib/manifest-destiny.rb",
     "manifest-destiny.gemspec",
     "test/helper.rb",
