@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "manifest-destiny"
   gem.homepage = "http://github.com/loopj/manifest-destiny"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Generate a cache.manifest file for your html5 offline app}
+  gem.description = %Q{Generate a cache.manifest file for your html5 offline app}
   gem.email = "james@loopj.com"
   gem.authors = ["James Smith"]
   # dependencies defined in Gemfile
