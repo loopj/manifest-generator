@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "lib/manifest-destiny.rb",
+    "manifest-destiny.gemspec",
     "test/helper.rb",
     "test/test_manifest-destiny.rb"
   ]
