@@ -1,16 +1,10 @@
-Manifest Destiny
+Manifest Generator
 ================
 
 A cache.manifest generator in ruby, for use in your HTML5 offline apps.
 
 The configuration DSL is designed to map closely to the keywords in the HTML5 
 cache manifest syntax: <http://www.w3.org/TR/html5/offline.html#manifests>
-
-
-Installation
-============
-
-    gem install manifest-destiny
 
 
 Configuration
